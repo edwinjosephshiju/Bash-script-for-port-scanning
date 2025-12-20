@@ -69,6 +69,8 @@ Example: Scan your local router from port 20 to port 100:
 
 ---
 
+## Example Script
+
 ```bash
 
 ./portscanner.sh 192.168.1.1 20 100
