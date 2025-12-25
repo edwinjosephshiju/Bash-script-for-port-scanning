@@ -92,6 +92,12 @@ Scan complete.
 
 ---
 
+## Poc
+
+![PoC_Terminal](PoC_Termux.jpg)
+
+---
+
 ## ⚠️ Disclaimer
 ### Please read carefully before using this tool.
 #### This script is provided for educational purposes and authorized security testing only.
