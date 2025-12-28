@@ -94,7 +94,15 @@ Scan complete.
 
 ## PoC ✅️
 
-![PoC_Terminal](PoC_Termux.jpg)
+![PoC_Terminal](terminal.png)
+
+![Test webpage](webpage.png)
+
+---
+
+### Active port
+
+![Active Port](port.png)
 
 ---
 
